@@ -9,7 +9,7 @@
 
 - Description: **I participated in and planned various events, and made friends in these organizations. I believe this experience of working as a team with my classmates will help me interact effectively with many professional developers and engineers.**
 
-- How to reach me: [yhwhiuwai@gmail.com](yhwhiuwai@gmail.com)
+- How to reach me: [yhwhiuwai@gmail.com](yhwhiuwai@gmail.com) or Phone number: +1 7329863885
 
 - Programming experience: **Excel, Google Sheets, Matplotlib, and Tableau**
 
