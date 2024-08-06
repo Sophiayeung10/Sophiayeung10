@@ -17,4 +17,4 @@
 
 - Linkedin [www.linkedin.com/in/hiu-wai-yeung-596563320](www.linkedin.com/in/hiu-wai-yeung-596563320)
 
-- ⚡ Fun fact **A big fan of Lakers**
+- ⚡ Fun fact: **A big fan of Lakers**
