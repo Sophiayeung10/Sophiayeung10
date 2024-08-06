@@ -1,6 +1,8 @@
 <h1 align="center">Welcome guys 👋, I'm Hiu Wai Yeung</h1>
 <h3 align="center">My name is Sophia (my preferred name) and I am studying at Rutgers as Electrical and Computer Engineering.</h3>
 
+- Now finding an intern in ** AI development, Software engineering, web development, machine learning, and cybersecurity**
+
 - Programming languages: **Python, Java, MATLAB, and C++ (mainly use Python)**
 
 - Projects I have done: **In my previous semester, I took Probability & Random Processes, using MATLAB to build graphs of PDFs and CDFs for my assignments. Additionally, in the Principles of Electrical Engineering lab, I worked with a classmate to build low-pass and band-pass filters on a breadboard.**
