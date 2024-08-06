@@ -7,7 +7,7 @@
 
 - Projects I have done: **In my previous semester, I took Probability & Random Processes, using MATLAB to build graphs of PDFs and CDFs for my assignments. Additionally, in the Principles of Electrical Engineering lab, I worked with a classmate to build low-pass and band-pass filters on a breadboard.**
 
-- Extracurricular Activities: **Joined the Multi-cultural Club as a social media manager. Joined the Hong Kong Student Association as a member**
+- Extracurricular Activities: **Joined the Multi-cultural Club as a social media manager at Middlesex College. Joined the Hong Kong Student Association as a member at Rutgers.**
 
 - Description: **I participated in and planned various events, and made friends in these organizations. I believe this experience of working as a team with my classmates will help me interact effectively with many professional developers and engineers.**
 
