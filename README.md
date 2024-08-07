@@ -1,7 +1,7 @@
 <h1 align="center">Welcome guys 👋, I'm Hiu Wai Yeung</h1>
 <h3 align="center">My name is Sophia (my preferred name) and I am studying at Rutgers as Electrical and Computer Engineering.</h3>
 
-** Now looking for an intern in AI development, Software engineering, Web development, Machine learning, and Cybersecurity, Quant trading **
+** Now looking for an intern in AI development, Software engineering, Web development, Machine learning, Cybersecurity, and Quant trading **
 
 - Programming languages: **Python, Java, MATLAB, and C++ (mainly use Python)**
 
