@@ -8,6 +8,7 @@
 - Extracurricular Activities: **Joined the Multi-cultural Club as a social media manager at Middlesex College. Joined the Hong Kong Student Association as a member at Rutgers.**
 
 - Extra Curricular & Certificate: 
+
 J.P. Morgan's Software Engineering Job Simulation - August 2024:
 Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies
 
