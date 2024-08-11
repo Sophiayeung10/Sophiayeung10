@@ -9,11 +9,11 @@
 
 - Extra Curricular & Certificate: 
 J.P. Morgan's Software Engineering Job Simulation - August 2024
-Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies
+- Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies
 Walmart USA Advanced Software Engineering Virtual Experience Program - August 2024  
-Developed a novel version of a heap data structure in Java for Walmart’s shipping department
-Designed a UML class diagram for a data processor
-Created an entity relationship diagram to design a new database accounting
+- Developed a novel version of a heap data structure in Java for Walmart’s shipping department
+- Designed a UML class diagram for a data processor
+- Created an entity relationship diagram to design a new database accounting
 
 - How to reach me: [yhwhiuwai@gmail.com](yhwhiuwai@gmail.com) or Phone number: +1 7329863885
 
