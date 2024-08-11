@@ -5,11 +5,15 @@
 
 - Programming languages: **Python, Java, MATLAB, and C++ (mainly use Python)**
 
-- Projects I have done: **In my previous semester, I took Probability & Random Processes, using MATLAB to build graphs of PDFs and CDFs for my assignments. Additionally, in the Principles of Electrical Engineering lab, I worked with a classmate to build low-pass and band-pass filters on a breadboard.**
-
 - Extracurricular Activities: **Joined the Multi-cultural Club as a social media manager at Middlesex College. Joined the Hong Kong Student Association as a member at Rutgers.**
 
-- Description: **I participated in and planned various events, and made friends in these organizations. I believe this experience of working as a team with my classmates will help me interact effectively with many professional developers and engineers.**
+- Extra Curricular & Certificate: 
+J.P. Morgan's Software Engineering Job Simulation - August 2024
+Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies
+Walmart USA Advanced Software Engineering Virtual Experience Program - August 2024  
+Developed a novel version of a heap data structure in Java for Walmart’s shipping department
+Designed a UML class diagram for a data processor
+Created an entity relationship diagram to design a new database accounting
 
 - How to reach me: [yhwhiuwai@gmail.com](yhwhiuwai@gmail.com) or Phone number: +1 7329863885
 
