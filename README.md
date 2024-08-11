@@ -10,6 +10,7 @@
 - Extra Curricular & Certificate: 
 J.P. Morgan's Software Engineering Job Simulation - August 2024:
 Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies
+
 Walmart USA Advanced Software Engineering Virtual Experience Program - August 2024:  
 Developed a novel version of a heap data structure in Java for Walmart’s shipping department,
 Designed a UML class diagram for a data processor,
